@@ -1,0 +1,16 @@
+#pirma {
+    background-color: chartreuse;
+}
+#antra {
+    background-color: cyan;
+
+}
+div {
+    padding: 20px;
+}
+p.mix {
+    border-style: dashed dotted double solid
+}
+p.mix2 {
+    border-style: solid dotted double dashed
+}
